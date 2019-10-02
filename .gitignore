@@ -1,0 +1,9 @@
+# my IDE
+.idea
+
+# config file
+config/config.js
+
+# data
+wad/issues.json
+wad/comments.json
