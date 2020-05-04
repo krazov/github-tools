@@ -2,6 +2,8 @@
 
 Set of NodeJS tools for Github that I wrote for myself in an urgent need.
 
+Data extracted here can be used in [Github Archive Visualisation](https://github.com/krazov/github-archive-visualisation) tool.
+
 They are intended to be used in a command line, at the moment as params for `node`. There are no plans to make it more user friendly for the time being.
 
 ## Getting data
